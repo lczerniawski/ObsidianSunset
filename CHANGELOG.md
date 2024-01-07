@@ -5,6 +5,12 @@ All notable changes to the "Obsidian Sunset" extension will be documented in thi
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 
+## [1.1.1] - 2024-01-07
+
+### Fixed
+
+- Screenshot of C# example
+
 ## [1.1.0] - 2024-01-07
 
 ### Added
