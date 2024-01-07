@@ -53,6 +53,7 @@
 		"list.inactiveSelectionForeground": "#565b66",
 		"list.invalidItemForeground": "#565b664d",
 		"list.errorForeground": "#d95757",
+		"list.dropBackground": "#212529",
 		"tree.indentGuidesStroke": "#6c738080",
 		"listFilterWidget.background": "#252422",
 		"listFilterWidget.outline": "#C84B31",
