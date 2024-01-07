@@ -6,6 +6,7 @@
   "engines": {
     "vscode": "^1.85.0"
   },
+  "publisher": "lczerniawski",
   "icon": "images/icon.png",
   "galleryBanner": {
     "color": "#C84B31",
