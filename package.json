@@ -11,6 +11,12 @@
     "color": "#C84B31",
     "theme": "dark"
   },
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "homepage": "https://github.com/lczerniawski/ObisidianSunset/blob/main/README.md",
+  "bugs": {
+    "url": "https://github.com/lczerniawski/ObisidianSunset/issues",
+    "email": "l.czerniawski@icloud.com"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/lczerniawski/ObisidianSunset"
