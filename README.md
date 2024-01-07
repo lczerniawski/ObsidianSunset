@@ -8,4 +8,9 @@ Whether you are coding in C#, Python, JS, or any other language, Obsidian Sunset
 
 Obsidian Sunset is ideal for developers who prefer a dark theme that is not too harsh on the eyes, but still provides a clear and pleasing visual experience.
 
+# Screenshots
+![Screenshot of the theme in C#](images/csharp-example.png)
+![Screenshot of the theme in TypeScript](images/ts-example.png)
+![Screenshot of the theme in Python](images/python-example.png)
+
 **Enjoy!**
