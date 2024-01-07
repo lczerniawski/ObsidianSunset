@@ -2,7 +2,7 @@
   "name": "obsidiansunset",
   "displayName": "Obsidian Sunset",
   "description": "Obsidian Sunset is a dark and colorful theme that makes your code readable and beautiful.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.85.0"
   },
