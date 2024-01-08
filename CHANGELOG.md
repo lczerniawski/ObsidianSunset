@@ -4,6 +4,12 @@ All notable changes to the "Obsidian Sunset" extension will be documented in thi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.3.0] - 2024-01-08
+
+### Changed
+
+- Change color for tags
+- Main font color and accents changed to be less red
 
 ## [1.2.0] - 2024-01-08
 
