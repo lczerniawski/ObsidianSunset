@@ -13,4 +13,7 @@ Obsidian Sunset is ideal for developers who prefer a dark theme that is not too 
 ![Screenshot of the theme in TypeScript](images/ts-example.png)
 ![Screenshot of the theme in Python](images/python-example.png)
 
+# Bugs & Suggestions
+Should you encounter any bugs or have suggestions for improvement, we encourage you to open an issue on GitHub.
+
 **Enjoy!**
