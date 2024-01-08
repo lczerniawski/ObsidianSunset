@@ -516,7 +516,7 @@
 				"meta.tag.sgml"
 			],
 			"settings": {
-				"foreground": "#B31312"
+				"foreground": "#6a994e"
 			}
 		},
 		{
@@ -536,7 +536,7 @@
 				"punctuation.definition.tag"
 			],
 			"settings": {
-				"foreground": "#B3131280"
+				"foreground": "#6a994e80"
 			}
 		},
 		{
@@ -854,8 +854,8 @@
 			}
 		}
 	],
-	"semanticHighlighting": true,
-	"semanticTokenColors": {
-		"parameter.label": "#bfbdb6"
-	}
+	// "semanticHighlighting": true,
+	// "semanticTokenColors": {
+	// 	"parameter.label": "#bfbdb6"
+	// }
 }
