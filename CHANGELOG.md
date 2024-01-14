@@ -4,6 +4,12 @@ All notable changes to the "Obsidian Sunset" extension will be documented in thi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.5.0] - 2024-01-14
+
+### Changed
+
+- Color of breakpoint to red
+
 ## [1.4.0] - 2024-01-08
 
 ### Changed
