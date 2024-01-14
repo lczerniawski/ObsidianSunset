@@ -81,7 +81,6 @@
 		"minimapGutter.modifiedBackground": "#73b8ff",
 		"minimapGutter.deletedBackground": "#f26d78",
 		"editorGroup.border": "#11151c",
-		"editorGroup.background": "#252422",
 		"editorGroupHeader.noTabsBackground": "#1c1b1a",
 		"editorGroupHeader.tabsBackground": "#1c1b1a",
 		"editorGroupHeader.tabsBorder": "#11151c",
@@ -117,8 +116,6 @@
 		"editor.lineHighlightBackground": "#272727",
 		"editorLink.activeForeground": "#C84B31",
 		"editorWhitespace.foreground": "#6c738099",
-		"editorIndentGuide.background": "#6c738033",
-		"editorIndentGuide.activeBackground": "#6c738080",
 		"editorRuler.foreground": "#6c738033",
 		"editorCodeLens.foreground": "#acb6bf8c",
 		"editorBracketMatch.background": "#6c73804d",
@@ -173,7 +170,7 @@
 		"statusBar.background": "#1c1b1a",
 		"statusBar.foreground": "#a2a1a1",
 		"statusBar.border": "#11151c",
-		"statusBar.debuggingBackground": "#f29668",
+		"statusBar.debuggingBackground": "#d62828",
 		"statusBar.debuggingForeground": "#171615",
 		"statusBar.noFolderBackground": "#252422",
 		"statusBarItem.activeBackground": "#a2a1a133",
@@ -193,23 +190,21 @@
 		"pickerGroup.border": "#11151c",
 		"pickerGroup.foreground": "#a2a1a180",
 		"debugToolBar.background": "#252422",
-		"debugIcon.breakpointForeground": "#f29668",
-		"debugIcon.breakpointDisabledForeground": "#f2966880",
+		"debugIcon.breakpointForeground": "#d62828",
+		"debugIcon.breakpointDisabledForeground": "#d6282880",
 		"debugConsoleInputIcon.foreground": "#C84B31",
 		"welcomePage.tileBackground": "#1c1b1a",
-		"welcomePage.tileShadow": "#00000080",
 		"welcomePage.progress.background": "#272727",
-		"welcomePage.buttonBackground": "#e6b45066",
 		"walkThrough.embeddedEditorBackground": "#252422",
 		"gitDecoration.modifiedResourceForeground": "#73b8ffb3",
 		"gitDecoration.deletedResourceForeground": "#f26d78b3",
 		"gitDecoration.untrackedResourceForeground": "#7fd962b3",
 		"gitDecoration.ignoredResourceForeground": "#a2a1a180",
-		"gitDecoration.conflictingResourceForeground": "",
+		"gitDecoration.conflictingResourceForeground": "#ffd573b3",
 		"gitDecoration.submoduleResourceForeground": "#d2a6ffb3",
 		"settings.headerForeground": "#bfbdb6",
 		"settings.modifiedItemIndicator": "#73b8ff",
-		"keybindingLabel.background": "#a2a1a11a",
+		"keybindingLabel.background": "#0604041a",
 		"keybindingLabel.foreground": "#bfbdb6",
 		"keybindingLabel.border": "#bfbdb61a",
 		"keybindingLabel.bottomBorder": "#bfbdb61a",
@@ -235,7 +230,6 @@
 	"tokenColors": [
 		{
 			"settings": {
-				"background": "#1c1b1a",
 				"foreground": "#bfbdb6"
 			}
 		},
@@ -640,7 +634,7 @@
 				"support.type.property-name"
 			],
 			"settings": {
-				"fontStyle": "normal",
+				"fontStyle": "",
 				"foreground": "#8946e2"
 			}
 		},
@@ -736,7 +730,6 @@
 				"markup.raw"
 			],
 			"settings": {
-				"background": "#bfbdb605"
 			}
 		},
 		{
@@ -745,7 +738,6 @@
 				"markup.raw.inline"
 			],
 			"settings": {
-				"background": "#bfbdb60f"
 			}
 		},
 		{
@@ -755,7 +747,6 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"background": "#bfbdb60f",
 				"foreground": "#acb6bf8c"
 			}
 		},
@@ -820,7 +811,6 @@
 				"markup.table"
 			],
 			"settings": {
-				"background": "#bfbdb60f",
 				"foreground": "#39bae6"
 			}
 		},
@@ -839,7 +829,6 @@
 				"text.html.markdown meta.dummy.line-break"
 			],
 			"settings": {
-				"background": "#acb6bf8c",
 				"foreground": "#acb6bf8c"
 			}
 		},
@@ -849,7 +838,6 @@
 				"punctuation.definition.markdown"
 			],
 			"settings": {
-				"background": "#bfbdb6",
 				"foreground": "#acb6bf8c"
 			}
 		}
