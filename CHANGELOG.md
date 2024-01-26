@@ -4,6 +4,13 @@ All notable changes to the "Obsidian Sunset" extension will be documented in thi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+
+## [1.5.1] - 2024-01-26
+
+### Changed
+
+- Update README with section "Why?"
+
 ## [1.5.0] - 2024-01-14
 
 ### Changed
