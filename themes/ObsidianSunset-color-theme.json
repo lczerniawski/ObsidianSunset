@@ -76,7 +76,7 @@
 		"minimap.background": "#171615",
 		"minimap.selectionHighlight": "#409fff4d",
 		"minimap.errorHighlight": "#d95757",
-		"minimap.findMatchHighlight": "#6c5980",
+		"minimap.findMatchHighlight": "#6c598066",
 		"minimapGutter.addedBackground": "#7fd962",
 		"minimapGutter.modifiedBackground": "#73b8ff",
 		"minimapGutter.deletedBackground": "#f26d78",
@@ -130,7 +130,7 @@
 		"editorOverviewRuler.bracketMatchForeground": "#6c7380b3",
 		"editorOverviewRuler.wordHighlightForeground": "#73b8ff66",
 		"editorOverviewRuler.wordHighlightStrongForeground": "#7fd96266",
-		"editorOverviewRuler.findMatchForeground": "#6c5980",
+		"editorOverviewRuler.findMatchForeground": "#6c598066",
 		"editorError.foreground": "#d95757",
 		"editorWarning.foreground": "#C84B31",
 		"editorGutter.modifiedBackground": "#73b8ffcc",
@@ -841,9 +841,5 @@
 				"foreground": "#acb6bf8c"
 			}
 		}
-	],
-	// "semanticHighlighting": true,
-	// "semanticTokenColors": {
-	// 	"parameter.label": "#bfbdb6"
-	// }
+	]
 }
