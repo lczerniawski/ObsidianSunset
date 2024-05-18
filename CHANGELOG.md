@@ -4,6 +4,11 @@ All notable changes to the "Obsidian Sunset" extension will be documented in thi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.5.2] - 2024-05-18
+
+### Changed
+
+- Fix name of the theme
 
 ## [1.5.1] - 2024-01-26
 

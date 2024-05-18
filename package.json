@@ -28,7 +28,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "ObsidianSunset",
+        "label": "Obsidian Sunset",
         "uiTheme": "vs-dark",
         "path": "./themes/ObsidianSunset-color-theme.json"
       }
