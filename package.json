@@ -7,6 +7,11 @@
     "vscode": "^1.85.0"
   },
   "publisher": "lczerniawski",
+  "author": {
+    "name": "Łukasz Czerniawski",
+    "email": "lczerniawski@icloud.com",
+    "url": "https://lczerniawski.github.io/"
+  },
   "icon": "images/icon.png",
   "galleryBanner": {
     "color": "#C84B31",
